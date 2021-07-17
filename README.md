@@ -1,17 +1,18 @@
-- 👋 Hi, I’m @Jai2305
-- 👀 I’m interested in ...
-* Web Developement 
-* App Developement
-* Game Developement
+# 👋 Hi, I’m @Jai2305
+I am currently pursuing my Computer Science degree
+# 👀 I’m interested in ...
+* Web Development 
+* App Development
+* Game Development
 * Photoshop
 - 🌱 I’m currently learning ...
 * Unity 3D
 * Flutter
-- 💞️ I’m would love to learn in future  ...
+# 💞️ I would love to learn in future  ...
 * More about AI
 * Tensor flow and machine Learning
 * More about AR and VR 
-- 📫 How to reach me ...
+# 📫 How to reach me ...
 * jainjai2305@gmail.com
 
 <!---
