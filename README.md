@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Jai2305
+# 👋 Hi, I’m Jai
 I am currently pursuing my Computer Science degree
 # 👀 I’m interested in ...
 * Web Development 
