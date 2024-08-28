@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Jai
-I am currently pursuing my Computer Science degree
+I am a software dev
 # 👀 I’m interested in ...
 * Web Development 
 * App Development
